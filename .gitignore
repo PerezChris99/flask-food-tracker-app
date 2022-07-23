@@ -2,3 +2,4 @@ env
 *.db
 *.sqlite
 *.sqlite2
+*.sqlite3
